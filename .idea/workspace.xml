@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1517564-42c4-4812-8aac-e1b9b8ead012" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extents.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Attendee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Base/EmployeeRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Base/EventStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Base/ObjectPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Base/ObjectPlusPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Base/TicketType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/EventSupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Exhibitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Schedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Sponsor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Models/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Org/ButtonRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Org/EventApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Org/EventDetailsWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Org/EventSelectionWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Org/RoomSelectionWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Org/WarningWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/extents.ser" afterDir="false" />
-    </list>
+    <list default="true" id="f1517564-42c4-4812-8aac-e1b9b8ead012" name="Changes" comment="Finished project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,26 +32,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.EventApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.EventApp.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "extract.method.default.visibility": "private",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/LaKlucha/IdeaProjects/Mas_testowy/MAS_MPF",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\LaKlucha\IdeaProjects\Mas_testowy\MAS_test\src\test" />
@@ -115,7 +83,17 @@
       <workItem from="1719150214837" duration="1717000" />
       <workItem from="1719313537742" duration="191000" />
       <workItem from="1719313751947" duration="506000" />
+      <workItem from="1719314386342" duration="252000" />
     </task>
+    <task id="LOCAL-00001" summary="Finished project">
+      <option name="closed" value="true" />
+      <created>1719314480021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719314480021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,5 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Finished project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished project" />
   </component>
 </project>
